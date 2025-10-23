@@ -12,7 +12,7 @@
 
 #### ⚙️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,git,github,vscode" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=django,flask,spring" alt="Frameworks and Tools" />
 </p>
 
 ---
