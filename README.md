@@ -1,20 +1,21 @@
-# 👋 Hi! I’m Guilherme Freire
+# 👋 Hi there, I'm **Guilherme Freire**
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Information Systems at Instituto Federal do Tocantins - IFTO
+🎓 I'm currently pursuing a Bachelor's degree in Information Systems at Instituto Federal do Tocantins - IFTO
 
----
 
-## 💻 Languages I work with
+### 🛠️ Languages & Technologies
 
+#### 💬Languages I work with
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css" alt="Languages" />
+</p>
+
+#### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,git,github,vscode" alt="Frameworks and Tools" />
 </p>
 
 ---
-
-
 
 ## 📫 Contact
 
